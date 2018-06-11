@@ -47,6 +47,13 @@
     <string name="permission_required_toast">Location permission is required for this demo.</string>
     <string name="title_activity_alterar_conta">AlterarConta</string>
     <string name="title_activity_excluir_conta">ExcluirConta</string>
+    <string name="title_activity_information">InformationActivity</string>
+    <string name="title_activity_detail_product">DetailProductActivity</string>
+    <string name="title_activity_quiz">Quiz</string>
+    <string name="title_activity_qresponde">QResponde</string>
+    <string name="title_activity_respota">RespotaActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_help">HelpActivity</string>
 
 
 </resources>

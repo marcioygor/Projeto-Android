@@ -54,6 +54,43 @@
         <activity
             android:name=".activities.ExcluirConta"
             android:label="@string/title_activity_excluir_conta"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".activities.SearchProductActivity" />
+        <activity
+            android:name=".activities.InformationActivity"
+            android:label="@string/title_activity_information"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.DetailProductActivity"
+            android:label="@string/title_activity_detail_product"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.EscolherComparacao"
+            android:label="@string/title_activity_escolher_comparacao"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.MapsActivity"
+            android:label="@string/title_activity_maps"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.Quiz"
+            android:label="@string/title_activity_quiz"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.QResponde"
+            android:label="@string/title_activity_qresponde"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.RespotaActivity"
+            android:label="@string/title_activity_respota"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.AboutActivity"
+            android:label="@string/title_activity_about"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.HelpActivity"
+            android:label="@string/title_activity_help"
             android:theme="@style/AppTheme"></activity>
     </application>
 
